@@ -8,7 +8,7 @@ import { Route, Switch } from 'react-router-dom';
 
 
 class App extends Component {
-  constructor() {
+  constructor(){
     super();
 
     this.state = {
@@ -57,3 +57,4 @@ class App extends Component {
 }
 
 export default App;
+
